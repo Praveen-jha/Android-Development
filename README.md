@@ -7,6 +7,22 @@ Try to learn new thing in Android Everyday and implement it ,  here I upload
 my Android Projects what I learn in Android.
 
 
+## MemeSharingApp
+
+**-This app Generate the random memes. It takes memes from redit through API.**
+
+![meme-removebg-preview](https://user-images.githubusercontent.com/78073585/159977912-8bbb9141-290a-4778-a422-ae8dbac2bb51.png)
+
+
+**- You can share any meme with the help of Share Button. And can see random by clicking on Next Button .**
+
+![Screenshot_20220324_224443](https://user-images.githubusercontent.com/78073585/159977906-8e6a693b-7fef-40e7-87f5-5fb8b5e3bf49.png)
+
+**- You will see a ProgressBar after clicking on Next Button until you get the next meme.**
+
+![Screenshot_20220324_224538](https://user-images.githubusercontent.com/78073585/159977896-4426c71d-95e4-4204-8575-d042ba6268e9.png)
+
+
 
 
 ## Birthday Wish App
